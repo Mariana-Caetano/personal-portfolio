@@ -64,6 +64,11 @@
 .cartao .lado.frente {
   text-align: center;
   vertical-align: top;
+  background-image: url('../img/profile\ picture.png');
+  background-size: 60%;
+  background-position-x: center;
+  background-position-y: 20%;
+  background-repeat: no-repeat;
 }
 .cartao .lado.frente .info {
   position: absolute;
@@ -73,13 +78,15 @@
 }
 .cartao .lado.frente h1 {
   font-size: 3em;
-  top: 20%;
+  top: 35%;
 }
 .cartao .lado.frente p {
   font-size: 1.5em;
   transform: translate3d(0, 2em, 0);
-  top: 25%;
+  top: 40%;
+  letter-spacing: 0.5rem;
 }
+
 .cartao .lado.verso p {
   position: absolute;
   font-size: 1.5em;
