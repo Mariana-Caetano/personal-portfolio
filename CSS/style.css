@@ -1,9 +1,9 @@
 .portaCartao {
-  width: 480px;
-  height: 300px;
+  width: 370px;
+  height: 500px;
   position: fixed;
   perspective: 1000px;
-  top: 50%;
+  top: 30%;
   left: 50%;
   margin-top: -150px;
   margin-left: -240px;
@@ -73,10 +73,12 @@
 }
 .cartao .lado.frente h1 {
   font-size: 3em;
+  top: 20%;
 }
 .cartao .lado.frente p {
   font-size: 1.5em;
   transform: translate3d(0, 2em, 0);
+  top: 25%;
 }
 .cartao .lado.verso p {
   position: absolute;
