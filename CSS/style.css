@@ -15,7 +15,7 @@
   height: 100%;
   position: relative;
   transform-style: preserve-3d;
-  transition: all 900ms linear;
+  transition: all 600ms linear;
   box-shadow: -5px 5px 5px #aaa;
   //animation: girar 5s infinite ease-out both;
   transform: translate3d(0, 0, 0);
