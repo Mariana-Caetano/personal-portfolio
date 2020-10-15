@@ -90,7 +90,25 @@
 .cartao .lado.verso p {
   position: absolute;
   font-size: 1.5em;
-  bottom: 1em;
-  left: 1em;
+  bottom: 22em;
+  left: 8.5em;
   line-height: 50px;
+}
+
+.github {
+  max-width: 20%;
+  margin: 140px 150px;
+  margin-bottom: 20px;
+}
+
+.in {
+  max-width: 15%;
+  margin: 20px 155px;
+  margin-bottom: 55px;
+}
+
+.email {
+  max-width: 15%;
+  margin-left: 155px;
+  margin-bottom: 150px;
 }
