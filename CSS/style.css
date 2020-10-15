@@ -87,24 +87,30 @@
   letter-spacing: 0.5rem;
 }
 
-.cartao .lado.verso p {
+/*.cartao .lado.verso p {
   position: absolute;
   font-size: 1.5em;
   bottom: 22em;
   left: 8.5em;
   line-height: 50px;
+}*/
+
+h2 {
+  font-size: large;
+  text-align: center;
+  margin-top: 95px;
 }
 
 .github {
   max-width: 20%;
-  margin: 140px 150px;
+  margin: 0px 150px;
   margin-bottom: 20px;
 }
 
 .in {
   max-width: 15%;
-  margin: 20px 155px;
-  margin-bottom: 55px;
+  margin: 20px 156px;
+  margin-bottom: 50px;
 }
 
 .email {
