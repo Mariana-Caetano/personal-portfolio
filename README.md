@@ -1,3 +1,4 @@
-# personal-portfolio
+# business-card
 
-Project for my Web devlopment portfolio (--loading--)
+Digital business card project based on Dennis Calazans: https://codepen.io/denniscalazans/pen/sJDhC
+
